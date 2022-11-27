@@ -1,5 +1,5 @@
 /*
-* Code for the Pentationic Piano Project. There are 5 buttons, and each button
+* Code for the Pentatonic Piano Project. There are 5 buttons, and each button
 * plays a different note to the buzzer when pressed.
 *
 *   Hope Crisafi 
